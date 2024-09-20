@@ -1,0 +1,2 @@
+totally-different-package @ https://github.com/CISecurity/OVALRepo/releases/download/1.9.0/5.10.zip \
+    --hash=sha256:6b2040770f5ffd3b342db1751c4719711223e3cea6fccae0e12856ba8e627052
